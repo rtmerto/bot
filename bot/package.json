@@ -1,0 +1,14 @@
+{
+  "name": "discord-afk-bots",
+  "version": "1.0.0",
+  "description": "4 Discord AFK Voice Bots",
+  "main": "start-all.js",
+  "scripts": {
+    "start": "node start-all.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@discordjs/voice": "^0.17.0"
+  }
+}
